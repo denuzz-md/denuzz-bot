@@ -1,0 +1,14 @@
+{
+  "name": "denuzz-bot",
+  "version": "1.0.0",
+  "description": "A public WhatsApp bot for downloads and utilities.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "@whiskeysockets/baileys": "^6.7.0",
+    "axios": "^1.6.8",
+    "pino": "^8.20.0"
+  }
+}
